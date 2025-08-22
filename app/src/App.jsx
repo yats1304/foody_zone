@@ -10,6 +10,12 @@ const App = () => {
         <input placeholder="Search Food"/>
       </div>
     </TopContainer>
+    <FilterContainer>
+      <Button>All</Button>
+      <Button>Breakfast</Button>
+      <Button>Lunch</Button>
+      <Button>Dinner</Button>
+    </FilterContainer>
   </Container>;
 };
 
@@ -20,7 +26,7 @@ const Container = styled.div`
  margin: 0 auto;
 `;
 
-const TopContainer = styled.div`
+const TopContainer = styled.section`
   min-height: 140px;
   display: flex;
   justify-content: space-between;
@@ -38,4 +44,18 @@ const TopContainer = styled.div`
       padding: 0 10px;
     }
   }
+`;
+
+const FilterContainer = styled.section`
+  display: flex;
+  justify-content: center;
+  gap: 12px ;
+`;
+
+const Button = styled.button`
+  background-color: #FF4343;
+  border-radius: 5px;
+  padding: 6px 12px;
+  border: none;
+  color: white;
 `;
