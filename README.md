@@ -20,7 +20,25 @@ Foody Zone is a simple **React-based food discovery website** where users can br
 
 ## 📂 Installation & Setup
 
-git clone https://github.com/your-username/foody_zone.git
-cd foody_zone
-npm install
-npm run dev
+Follow these steps to get your local copy of Foody Zone up and running for development and testing purposes.
+
+Prerequisites:
+Make sure you have Node.js and npm installed on your machine.
+
+Steps:
+
+1. Clone the repository
+
+   git clone https://github.com/your-username/foody_zone.git
+
+2. Navigate to project directory
+
+   cd foody_zone
+
+3. Install dependencies
+
+   npm install
+
+4. Start the development server
+
+   npm run dev
