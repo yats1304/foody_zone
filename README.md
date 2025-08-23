@@ -12,7 +12,6 @@ Foody Zone is a simple **React-based food discovery website** where users can br
 - **React** (Frontend)
 - **Vite** (Build Tool)
 - **Styled Components** (Styling)
-- **Node.js/Express** (Backend API - if included)
 
 ## 📸 Screenshots
 
