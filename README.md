@@ -28,7 +28,7 @@ Steps:
 
 1. Clone the repository
 
-   git clone https://github.com/your-username/foody_zone.git
+   git clone https://https://github.com/yats1304/foody_zone
 
 2. Navigate to project directory
 
